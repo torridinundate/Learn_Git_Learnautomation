@@ -12,3 +12,7 @@ Author: vl1
 4. Attachments (Image, Audio, Video) Code
 
 5. Hiding Last Changes
+
+6. Adding Audio Call 
+
+7. Adding Video Call
