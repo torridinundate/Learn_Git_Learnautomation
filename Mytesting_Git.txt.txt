@@ -16,3 +16,5 @@ Author: vl1
 6. Adding Audio Call 
 
 7. Adding Video Call
+
+8. Added Status so that user can play train games
